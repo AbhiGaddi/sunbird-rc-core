@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - hcx-enhancements
+      - docker-image
  
 jobs:
   build:
